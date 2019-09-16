@@ -22,8 +22,3 @@ Store downloaded images in sqlite database.
 program download 100 most recent
 4. Find and display image from the database that is most red-colored ----> 40 points
 5. Readable, well organized, bug-free, secured code ----> 10 points
-
-Time to do a task is 4 hours
-
-Please commit everything to github ad send me repo link. We will check code that will be pushed before time ends.
-In case of problems drop me mail: kamil.wasag@enigmapattern.com.

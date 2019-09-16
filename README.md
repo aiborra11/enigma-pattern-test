@@ -1,4 +1,4 @@
-# enigma-pattern-test
+# enigma-test
 
 Task 1 -> This part has to be done
 In python write script that:
